@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 Advanced JavaScript concepts including closures, prototypes, the event loop, async programming, generators, and design patterns.
